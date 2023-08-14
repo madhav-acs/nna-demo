@@ -1,0 +1,7 @@
+sentence-transformers==2.2.2 
+chromadb==0.3.25 
+pyllamacpp==2.4.0 
+langchain==0.0.177
+llama-cpp-python==0.1.77
+streamlit  
+streamlit_chat

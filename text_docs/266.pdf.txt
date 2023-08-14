@@ -1,0 +1,148 @@
+ACURA Service bulletin 14-025
+Timing Belt Chirps
+Supersedes 14-025, dated August 6, 2020, to revise the information highlighted in yellow.
+
+AFFECTED VEHICLES:
+Year Model Trim Level VIN Range
+2014–18 MDX ALL ALL
+2019 MDX 2WD 5J8YD3…KL000001 thru 5J8YD3…KL005096
+2019 MDX AWD 5J8YD4…KL000001 thru 5J8YD4…KL011104
+2019 MDX Sport Hybrid 5J8YD7…KL000001 thru 5J8YD7…KL000483
+2016-18 RDX ALL ALL
+2014–18 RLX ALL except Sport Hybrid ALL
+2019 RLX ALL except Sport Hybrid JH4KC1…KC000001 thru JHRKC1…KC000064
+2014 RLX Sport Hybrid ALL ALL
+2016–18 RLX Sport Hybrid ALL ALL
+2019 RLX Sport Hybrid ALL JH4KC2…KC000001 thru JHRKC2…KC000369
+2015–18 TLX ALL with V6 ALL
+2019 TLX 2WD with V6 19UUB2…KA000001 thru 19UUB2...KA007635
+2019 TLX AWD with V6 19UUB3…KA000001 thru 19UUB3...KA005453
+
+REVISION SUMMARY
+The 2016-18 RDX was added to the bulletin.
+
+SYMPTOM
+The timing belt area chirps after the engine warms up.
+
+POSSIBLE CAUSES
+The timing belt contacts the back edge of the crankshaft pulley
+
+CORRECTIVE ACTION
+Do the diagnosis and, based on the results, install an idler pulley shim.
+
+PARTS INFORMATION
+Required Parts for all models:
+Part Name Part Number Quantity
+Idler Pulley Shim 14559-RCA-305 1
+Timing Belt Idler Bolt 14551-RCA-A01 1
+Flange Bolt 10 mm x 60 mm 90168-TA1-A00 2
+
+For MDX, add the following:
+Part Name Part Number Quantity
+O-Ring 91319-R70-A01 1
+Flange Bolt 10 mm x 85 mm 90002-R70-A00 1
+Flange Bolt 10 mm x 105 mm 95801-10105-08 2
+Flange Bolt 12 mm x 45 mm 90165-SDA-A00 1
+
+For RDX, add the following:
+Part Name Part Number Quantity
+O-Ring 91319-R70-A01 1
+Flange Bolt (10 mm x 60 mm) 90168-TA1-A00 2
+Flange Bolt (12 mm x 45 mm) 90161-SDA-A01 1
+Flange Bolt (10 mm x 75 mm) 90002-R8A-A00 3
+
+For RLX (except Sport Hybrid), add the following:
+Part Name Part Number Quantity
+O-Ring 91319-PAA-A01 1
+Flange Bolt 10 mm x 85 mm 90002-R70-A00 1
+Flange Bolt 10 mm x 105 mm 95801-10105-08 2
+Flange Bolt 12 mm x 45 mm 90161-SDA-A01 1
+
+For RLX Sport Hybrid, add the following:
+Part Name Part Number Quantity
+Oil Filter Base Gasket 15302-5G0-A00 1
+Pre-Chamber Gasket 18393-SJA-A01 1
+Flange Bolt 10 mm x 35 mm 90163-SDA-A01 2
+Flange Bolt 10 mm x 35 mm 90161-T2A-A00 2
+Flange Bolt 10 mm x 60 mm 90164-TY3-A01 2
+Flange Bolt 10 mm x 75 mm 90002-R8A-A00 3
+Flange Bolt 12 mm x 45 mm 90161-SDA-A01 1
+Flange Nut 12 mm 90371-SEF-000 4
+Self-Lock Nut 10 mm 90212-SA5-003 3
+
+For TLX, add the following:
+Part Name Part Number Quantity
+O-Ring 91319-R70-A01 1
+Flange Bolt 10 mm x 85 mm 90002-R70-A00 1
+Flange Bolt 10 mm x 105 mm 95801-10105-08 2
+Flange Bolt 12 mm x 45 mm 90161-SDA-A01 1
+
+REQUIRED TOOLS
+Part Name Tool Number Quantity
+Holder Handle 07JAB-001020B 1
+Pulley Holder 07MAB-PY3010B 1
+Breaker Bar (commercially available) 07JAA-001020A 1
+
+WARRANTY CLAIM INFORMATION
+The normal warranty applies
+Model, Operation Number, Description, Flat Rate Time, Defect Code, Symptom Code, Template ID, Failed Part Number
+MDX, 1110A7, Diagnose and install an idler pulley shim, 2.6 hr, 07403, 04201, 14-025N, 14400-R9P-A01
+RLX, 1110A7, Diagnose and install an idler pulley shim, 2.6 hr, 07403, 04201, 14-025P, 14400-R9P-A01
+TLX, 1110A7, Diagnose and install an idler pulley shim, 2.6 hr, 07403, 04201, 14-025Q, 14400-R9P-A01
+RLX Sport Hybrid, 1110A7, Diagnose and install an idler pulley shim, 4.3 hr, 07403, 04201, 14-025R 14400-R9P-A01
+RDX, 1110A7, Diagnose and install an idler pulley shim, 2.7 hr, 07403, 04201, 14-025S, 14400-R9P-A01
+
+DIAGNOSIS
+During the diagnosis and repair, follow the procedures listed below. For more detail about any of these procedures, see the applicable service information.
+Wheel Removal and Installation
+Engine Undercover Removal and Installation
+Drive Belt Removal and Installation
+Crankshaft Pulley Removal and Installation
+Timing Belt Removal and Installation
+Side Engine Mount Removal and Installation
+Timing Belt Auto-Tensioner Removal and Installation
+
+DIAGNOSIS
+1. Start the engine, let it warm up, and listen for a chirp.
+It can take up to 30 minutes for the engine to become hot enough to hear a chirp.
+Do you hear a chirp?
+If you hear a chirp coming from the timing belt area, go to step 2.
+If you hear a chirp coming from the high pressure fuel pump, refer to service bulletin 16-008, High Pressure 
+Fuel Pump Chirps (except RDX).
+If you do not hear a chirp, this bulletin does not apply. Continue with normal troubleshooting procedures
+
+DIAGNOSIS
+2. Remove the drive belt and retest the engine while it is hot.
+If you hear a chirp, go to step 3.
+If you do not hear a chirp, this bulletin does not apply. Continue with normal troubleshooting procedures.
+3. RLX Sport Hybrid only: Disconnect the high-voltage cable to the electric A/C compressor (the compressor is not 
+removed). Refer to the electric A/C compressor removal procedure in the service information (steps 2, 3, and 8).
+NOTE: Because there is limited space between the timing belt covers and the shock tower, remove the front strut 
+brace and lift the engine about 35 mm to remove the timing belt covers
+
+DIAGNOSIS
+4. RLX Sport Hybrid only: Remove the timing belt covers. Refer to the timing belt removal procedure in the service 
+information (steps 1–4 and 7–17)
+5. RLX Sport Hybrid only: Install/connect the following components: exhaust pipe A, the lower half of the side engine 
+mount bracket, the high-voltage cable to the electric A/C compressor, and the oil filter base/oil cooler/oil filter 
+assembly. Then, install the service plug and connect the 12-volt battery terminal. Go to step 17.
+6. Remove the right front wheel.
+7. Remove the engine undercover
+8. Hold the crankshaft pulley with the holder handle and the pulley holder
+9. Remove the crankshaft bolt with a heavy duty 19 mm socket and a breaker bar, then remove the crankshaft pulley 
+and washer. Temporarily reinstall the crankshaft bolt.
+10. If equipped, remove the injector control module and move to the side
+11. RDX only: Remove the upper fender trim and the coolant tank.
+12. RDX only: Remove the PCM bracket (no connectors unplugged).
+13. Remove the front and rear upper covers. Keep the A/C pressure sensor harness out of the way of moving parts by attaching it to the A/C line with a zip tie.
+14. Install the injector control module
+
+DIAGNOSIS
+15. RDX only: Remove the side engine mount. The side engine mount is removed to gain access to the lower timing belt cover.
+16. Remove the lower cover. 
+17. Start the engine while it is still hot, then spray the back edge of the timing belt with water while it is running. 
+On RLX Sport Hybrid models there are more disassembly steps that could allow the engine to cool, you may have 
+to warm up the engine before squirting the timing belt with water to see if the chirp lessens.
+Do you still hear a chirp?
+If the chirp lessens, changes pitch, or goes away, go to REPAIR PROCEDURE
+If the chirp does not change, this bulletin does not apply. Continue with normal troubleshooting procedures.

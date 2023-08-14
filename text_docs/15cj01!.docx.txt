@@ -1,0 +1,96 @@
+
+APPLIED VEHICLES: All Nissan vehicles 
+SERVICE INFORMATION
+This bulletin provides information for wiring harness and connector repair, which is the preferred alternative to wiring harness replacement, and has been developed to improve customer satisfaction by simplifying the repair of electrical wiring harnesses. This will improve the dealers service capabilities by making a repair more efficient than the replacement of an entire wiring harness assembly. 
+The following service information includes:
+1. Nissan wire harness repair information website. 
+2. Wiring harness repair vs. replacement guidelines. 
+3. The technicians responsibilities in assisting the dealers claims administrator to properly code a wire harness repair. 
+4. Warranty claims coding for repairing and diagnosing wiring harnesses for all Nissan vehicles.
+
+Wire Harness Repair Guidelines
+HINT: If a Warranty Part Return Request is received, please ship all replaced parts (e.g., terminals, pins, sections of wire, and connectors).
+Visit https://vcat.nnanet.com/prweb/PRAuth/Connectors to find information related to the following topics:
+1. Wire harness connector and terminal part numbers. 
+2. Specific connector and terminal repair instructions with video. 
+3. Tools needed for repair. 
+4. General wiring harness repair procedures. 
+5. If you cannot find a connector or terminal part, please utilize the Feedback button; Nissan will evaluate it for possible inclusion in future service parts. 
+6. Replacement Harness Repair Kit (HRK) Tools can be ordered through the Tech?Mate Tools & Equipment website at www.techmatetools.com or call (833) 397-3493. 
+
+APPLIED VEHICLES: All Nissan vehicles 
+Wire Harness Replacement Guidelines 
+Replace the wiring harness ONLY when the vehicle concern involves any of the following conditions: 
+1. The estimated cost of the repair exceeds the cost of replacing the entire wiring harness. 
+2. The vehicle is damaged by flood or thermal incident. 
+3. The wiring harness was severely damaged due to a car accident. 
+4. The appropriate components are not available to order. 
+5. The wiring harness replacement is required from another bulletin. 
+6. The wiring harness repair is in the shielded area of a circuit. 
+7. The wiring harness needing repair is USB, coaxial, or antenna feeder wiring.
+
+APPLIED VEHICLES: All Nissan vehicles 
+Required Technician Information for Warranty Harness Repair 
+The technician must record and attach the following necessary information on the repair order for the claims administrator to complete claims coding. 
+A Harness Repair Form is NOW REQUIRED for every wire harness repair or replacement warranty claim. This is a new requirement to justify the new Flat Rate Time (FRT). Refer to Figure 3 on page 5 for form location information. 
+Print a general vehicle wire harness layout from the Electronic Wiring Diagram (eWD). Circle or highlight the wiring harness being replaced or repaired
+If the repair is CONNECTOR related, also print the connectors information from the eWD of the connector, and then highlight the specific circuit/terminal repaired. 
+Operation (Op) Code: Op Codes are related to the time taken for the repair. 
+If replacement/repair is related to a sub-harness, use the name of the wire harness it is attached to. For example, if the sub-harness is attached to the EGI harness, write down EGI Harness
+Primary Failed Part (PFP): This is the part number (P/N) of the repaired/replaced wiring harness. Write down the P/N on the repair order.
+1. Please return ALL replaced parts for repair (e.g., terminals, pins, connectors, and wiring). 
+2. If a Warranty Part Return Request is received, please ship all replaced parts (e.g., terminals, pins, sections of wire, and connectors). 
+
+
+APPLIED VEHICLES: All Nissan vehicles 
+Diagnosis Code: This describes the type of problem that was found. Give an accurate description for the warranty clerk to determine the diagnosis code. 
+Include pictures for each diagnosis related description per attachment. 
+Enter the critical repair information in the Tech Comment Verbatim line. For example:
+1. An accurate description of the incident, cause, and repair. 
+2. The reason for the repair or replacement. 
+3. The location of the concern, if wire related. 
+4. The type of wire concern (open/shorted/pinched/chafed/bent or spread pin/etc.). 
+5. The connector number. 
+6. The wire connector cavity number and its wire color. 
+7. The terminal pin number. 
+Attach the clock punch in and punch out time on the back of the repair order. Diagnostic time can be included. 
+
+APPLIED VEHICLES: All Nissan vehicles 
+Warranty Claim Information 
+Requirements for Repair Over 3 Hours or Replacement: 
+If the wiring harness must be replaced/repaired and the time to complete the job exceeds  
+the DCAL limit: 
+1. A Harness Repair Form must be submitted. 
+2. Use only ST Op codes. 
+3. Pre-authorization must be given by the Warranty Claims Call Center (WCCC). 
+4. Do not combine FRT Op codes with ST Op codes
+
+APPLIED VEHICLES: All Nissan vehicles 
+Requirements for Repair: 
+If the wiring harness is deemed repairable and the time required to repair it is under 3 hours
+1. A Harness Repair Form must be submitted. 
+2. Use only FRT Op codes, which are now available in the Flat Rate Manual. 
+3. Pre-authorization is not required. 
+4. Do not combine ST Op codes with FRT Op codes. 
+
+APPLIED VEHICLES: All Nissan vehicles 
+Harness Diagnose & Repair Flat Rate Op Code Selection Guidelines: 
+1.0 Hour (Simple) Repair 
+Access one (1) control unit/area/panel. 
+Visually inspect a wire harness and connector. 
+Repair a single accessible circuit. 
+15-59 minute repair. 
+
+Harness Diagnose & Repair Flat Rate Op Code Selection Guidelines: 
+2.0 Hour (Intermediate) Repair
+Access 2 - 4 control units/areas/panels. 
+Visually inspect the wire harnesses and connectors. 
+Repair multiple circuits. 
+60-119 minute repair. 
+
+Harness Diagnose & Repair Flat Rate Op Code Selection Guidelines: 
+3.0 Hour (Difficult) Repair 
+Access four (4) or more control units/areas/panels. 
+Visually inspect the wire harnesses and connectors. 
+Repair multiple circuits. 
+120-180 minute repair. 

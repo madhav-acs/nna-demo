@@ -1,0 +1,66 @@
+QX60 CVT Warranty extension
+INFINITI CAMPAIGN BULLETIN CVT WARRANTY extension
+Date: August 30, 2022
+Attention: Retailer Principal, Sales, Parts and Service Managers
+UPDATE August 30, 2022 Please discard earlier versions of this bulletin.
+The announcement from June 2, 2022 has been revised to include:
+1. The voucher program ID numbers provided in the FAQ section of this retailer announcement have
+been changed. The new voucher program ID numbers are:
+    INFINITI program ID: 22I2299CVT
+    Nissan program ID: 22N2299CVT
+
+In an effort to assure client satisfaction, demonstrate our confidence in continuously variable
+transmissions (CVTs), and to address client concerns including those expressed by clients in the class
+actions, INFINITI will extend the warranty coverage on the CVT. The warranty extension includes the
+CVT assembly and internal CVT components, gaskets, and seals, CVT control valve body, torque
+converter, cooler kit (if applicable) and reprogramming of the Transmission Control Module (TCM), on
+the vehicle listed in this announcement. The warranty is being extended from its original duration of
+72 months/70,000 miles to 96 months/94,000 miles (whichever occurs first).
+Coverage of other vehicle components remains unchanged, and all other terms, conditions, limitations
+and exclusions of INFINITI’s New Vehicle Limited Warranty continue to apply.
+
+***** What Retailers Should Do *****
+1. If an owner contacts a retailer with a CVT concern in an owned or leased vehicle, verify
+warranty coverage for the specific VIN and then inform the client of any diagnostic charges.
+NOTE: Some owners may have opted out of the warranty extension by excluding themselves
+from the class action settlement, thus it is important to check the VIN for each vehicle to
+verify coverage.
+
+2. Use the appropriate Technical Service Bulletin (TSB) and/or Electronic Service Manual (ESM)
+to diagnose the root cause of the client concern and identify the correct repair to resolve the
+client concerns.
+NOTE: Dealers will need to follow the warranty process and obtain pre-approval using the
+VCAT tool. Please reference IWBI/21-002.
+
+3. CVT warranty coverage can be confirmed using the warranty extensions/customer service
+initiatives page in Service Comm or DBS National Service History.
+4. If the vehicle is no longer covered by a powertrain or parts warranty, provide owners a repair
+estimate for a test drive, diagnosis, and repair. If an owner requests assistance, be sure to
+consult goodwill guidelines available in the Assurance Products Resources Manual (APRM)
+section 2.2 and obtain the necessary approvals before proceeding.
+5. Once the CVT has been remedied, dealers should submit the claim using the appropriate
+claims coding using the Warranty Flat Rate Manual (WFRM) or applicable TSB coding and
+release the vehicle.
+
+***** Release Schedule *****
+Parts: Refer to the electronic parts catalog for parts information
+Repair: Refer to the applicable TSBs available on ASIST for the model year and model being inspected or to diagnostic and repair procedures in the Electronic Service Manual (ESM) as needed.
+Training: Retailers can complete the CVT Warranty Extension and Client Care Training
+course available on INFINITI University Online. Access the training through
+NNAnet and click on Training under my links to access course:
+Service Manager or Director
+Parts Manager or Director
+Parts & Service Director
+Service Consultant
+Owner Loyalty Manager
+Warranty Admin
+Note: Course will be available mid-June
+
+Owner Notification: INFINITI will begin notifying eligible owners in June 2022 via U.S. Mail.
+
+***** Retailers Responsibility ***** 
+It is the retailers responsibility to check Service Comm or NSH for the warranty status on each vehicle
+entering the service department. This includes vehicles purchased from private parties or presented
+by transient (tourist) owners and vehicles in retailer inventory.
+
+

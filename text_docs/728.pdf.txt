@@ -1,0 +1,42 @@
+Infiniti Safety Recall
+CAMPAIGN BULLETIN
+ABS Actuator Recall
+Preliminary Retailer Announcement
+Reference: ABS
+Date: September 11, 2018
+Attention: Retailer Principal, Sales, Parts and Service Managers
+
+***** Campaign Summary *****
+INFINITI is committed to the safety and security of our clients and their passengers. INFINITI has notified the National Highway Traffic Safety Administration (NHTSA) that it will conduct a Voluntary Recall Campaign on ~16,000 specific MY2017 QX60 vehicles to inspect and, if necessary replace the Antilock Braking System (ABS) actuator.
+The ABS actuator pump seal may leak brake fluid onto the control electronic circuit board. If this occurs, an ABS warning lamp will illuminate to warn the driver. If the vehicle continues to be operated in this condition, the brake fluid leak may create an electrical short in the actuator circuit, which in rare cases could potentially lead to a thermal incident. If the ABS warning lamp is continually illuminated, INFINITI recommends parking the vehicle outside and contacting INFINITI Roadside Assistance to have the vehicle towed to an authorized INFINITI service department as soon as possible.
+Owners of potentially affected vehicles will be notified beginning in October 2018 and asked to bring their vehicle to an authorized INFINITI retailer to have the remedy work completed at no cost for parts or labor.
+INFINITI expects to issue an updated retailer notification with remedy instructions and campaign IDs to identify affected vehicles by September 19, 2018. 
+
+***** What Retailers Should Do****
+1. Please wait until INFNITI issues further instructions and identifies affected vehicles in Service Comm and DBS National Service History – Open Campaigns.
+2. Retailers should quarantine parts inventory of the following part numbers and return them immediately to their PDC using an I-code.
+These parts are obsolete and restricted from further ordering or use. INFINITI requests all retailer parts inventory be returned no later than September 30, 2018.
+1. 47660-9UC1B
+2. 47660-9UC1D
+
+Frequently Asked Questions (FAQ):
+Q. When will retailers have additional information on this issue?
+A. INFINITI expects to issue additional instructions on September 19, 2018.
+
+Q. What vehicles are affected?
+A. INFINITI will provide campaign IDs to identify affected MY2017 QX60 vehicles in Service Comm and DBS National Service History Open Campaigns by no later than September 19, 2018. 
+
+Q. What should I tell inquiring clients?
+A. Inform owners that INFINITI will notify them by mail in October 2018 if their vehicle is affected and instruct them to contact an authorized INFINITI retailer to inspect their vehicle.
+    Ask MY2017 QX60 owners if the ABS warning lamp is illuminated:
+    1. If yes:
+        1. Arrange with INFINITI Roadside Assistance (1-800-662-6200 option 1) to tow the vehicle to a retailer. 
+        2. Park the vehicle outside and away from structures.
+        3. Retrieve any diagnostic trouble codes from the ABS control unit and keep the results with a repair order for this vehicle.
+        4. Disconnect the 12-volt battery while awaiting further instructions to determine if the vehicle is subject to this recall.
+    2. If No:
+        1. Clients may drive their vehicle at their discretion, but INFINITI urges owners to contact INFINITI Roadside Assistance if the ABS warning lamp illuminates and bring their vehicle to an INFINITI retailer as soon as possible to have their ABS actuator inspected if they receive a notification letter.
+
+Q. Are you experiencing this condition on any other Nissan (or INFINITI) models?
+A. Yes, ~199,000 specific MY2016-2017 Nissan Maxima, MY2015-2017 Nissan Murano, and MY2017 Nissan Pathfinder vehicles were included in Nissan’s notification to NHTSA. INFINITI retailers received a similar preliminary announcement informing them more information will be provided on September 19, 2018.
+
